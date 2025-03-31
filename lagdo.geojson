@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lagdo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 13.928544899196437, 8.900218210096966 ], [ 14.035604211461935, 8.900552422310074 ], [ 14.035269999248827, 8.81020372069996 ], [ 13.928099282912292, 8.81020372069996 ], [ 13.928544899196437, 8.900218210096966 ] ] ] ] } }
+]
+}
